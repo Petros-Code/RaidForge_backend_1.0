@@ -1,0 +1,3 @@
+DROP TABLE IF EXISTS raid_participants;
+DROP TABLE IF EXISTS raids;
+DROP TABLE IF EXISTS users;
