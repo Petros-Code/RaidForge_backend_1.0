@@ -2,10 +2,24 @@
   "name": "raidforge_backend1.0",
   "version": "1.0.0",
   "description": "Nouveau Fil Rouge de ma formation TP Dev Web",
+  "keywords": [
+    "WoW",
+    "Raid",
+    "Build",
+    "Talents"
+  ],
+  "homepage": "https://github.com/Petros-Code/RaidForge_backend_1.0#readme",
+  "bugs": {
+    "url": "https://github.com/Petros-Code/RaidForge_backend_1.0/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Petros-Code/RaidForge_backend_1.0.git"
+  },
   "license": "ISC",
   "author": "Petros-Code",
   "type": "module",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
